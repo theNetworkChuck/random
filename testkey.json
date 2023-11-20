@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "network": "networkchuck.twingate.com",
+  "service_account_id": "96faf5ca-a241-49be-bad0-009254ae7fd7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgzar3BNn5iDa+lmle\n6OfjpfdtbhOkzbTLO8SnUFghEHihRANCAATlAvoFOWmxjekYEOGBejtr4SXHCkpW\nxGm7QrINBDwfdBFpPnWDBkDVeq4IttGrN5l+Y6MCeMavNnWc6d0fv7zM\n-----END PRIVATE KEY-----",
+  "key_id": "_3Eya87SlWe7_hWDtDSGh_aqjOblKXmT4qFZaxRTWzc",
+  "expires_at": "2024-11-19T19:48:42+00:00",
+  "login_path": "/api/v4/headless/login"
+}
